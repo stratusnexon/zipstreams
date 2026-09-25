@@ -23,6 +23,10 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/20/s8/2/6/t/4/3/6t43z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1737401856-1737467901",
       },
       {
+        nombre: "pelicula23",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/64/s8/2/A/i/x/0/Aix0A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1574278656-1574338429",
+      },
+      {
         nombre: "video4",
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/2/E/W/5/L/EW5Lz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1491895296-1491951705",
       },
