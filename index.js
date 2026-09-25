@@ -320,6 +320,16 @@ const CANALES = {
       },
     ],
   },
+  canaluno: {
+    nombre: "Canal Uno",
+    epoch: Date.UTC(2024, 6, 1, 0, 0, 0) / 1000,
+    episodios: [
+      {
+        nombre: "UnoChannel",
+        url: "https://pub-f00d5d649500451fb2fe8979f4685eea.r2.dev/STRATUS-hls/master.m3u8",
+      },
+    ],
+  },
 };
 
 // ============ CONFIGURACIÓN GLOBAL ============
