@@ -144,7 +144,7 @@ const CANALES = {
       },
       {
         nombre: "pelicula4",
-        url: "https://hugh.cdn.rumble.cloud/video/fww1/40/s8/2/S/7/F/H/S7FHz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=706075648-706129551",
+        url: "https://hugh.cdn.rumble.cloud/video/s8/2/U/T/o/6/UTo6j.caa.mp4?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl",
       },
     ],
   },
