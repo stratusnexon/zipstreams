@@ -27,6 +27,10 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/G/6/j/-/G6j-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=491497472-491556048",
       },
       {
+        nombre: "AMAME O MUERETE",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/4b/s8/2/e/l/k/-/elk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=308416512-308453043",
+      },
+      {
         nombre: "video4",
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/2/E/W/5/L/EW5Lz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1491895296-1491951705",
       },
@@ -325,8 +329,12 @@ const CANALES = {
     epoch: Date.UTC(2024, 6, 1, 0, 0, 0) / 1000,
     episodios: [
       {
-        nombre: "UnoChannel",
-        url: "https://pub-f00d5d649500451fb2fe8979f4685eea.r2.dev/STRATUS-hls/master.m3u8",
+        nombre: "EN LA MENTE DE UN DICTADOR",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/S/U/j/-/SUj-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=668925440-668976381",
+      },
+      {
+        nombre: "PABLO ESCOBAR: HOMBRE VS MITOS",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/0/R/j/-/0Rj-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=349229056-349255622",
       },
     ],
   },
