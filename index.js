@@ -23,8 +23,8 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/1e/s8/2/O/I/k/-/OIk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=505742848-505803063",
       },
       {
-        nombre: "LA MERCENARIA",
-        url: "https://hugh.cdn.rumble.cloud/video/fwe2/1e/s8/2/O/I/k/-/OIk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=505742848-505803063",
+        nombre: "ASALTO A WALL STREET",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/7f/s8/2/4/V/k/-/4Vk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=499523584-499582916",
       },
       {
         nombre: "Pelicula11",
@@ -41,6 +41,10 @@ const CANALES = {
       {
         nombre: "video2",
         url: "https://hugh.cdn.rumble.cloud/video/fww1/ce/s8/2/8/q/-/V/8q-VA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=36645376-36658210",
+      },
+      {
+        nombre: "5 DIAS DE  GUERRA",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/ff/s8/2/c/4/k/-/c4k-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=574739456-574807495",
       },
       {
         nombre: "UN PEQUEÑO CAMBIO",
