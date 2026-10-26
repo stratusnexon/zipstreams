@@ -24,7 +24,7 @@ const CANALES = {
       },
       {
         nombre: "UN PEQUEÑO CAMBIO",
-        url: "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/G/6/j/-/G6j-A.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=162388992-162447035",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/G/6/j/-/G6j-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=491497472-491556048",
       },
       {
         nombre: "video4",
