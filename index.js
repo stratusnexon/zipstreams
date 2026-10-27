@@ -75,6 +75,10 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/K/P/K/H/KPKHz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1560011264-1560070291",
       },
       {
+        nombre: "6 BALAS",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/2/c/8/k/-/c8k-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=905704960-905774253",
+      },
+      {
         nombre: "video5",
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/o/T/-/V/oT-VA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=167813120-167825834",
       },
