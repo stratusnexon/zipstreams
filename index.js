@@ -71,6 +71,14 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/86/s8/2/k/c/e/m/kcemz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1502260224-1502317150",
       },
       {
+        nombre: "video5",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/o/T/-/V/oT-VA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=167813120-167825834",
+      },
+      {
+        nombre: "video6",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/A/1/-/V/A1-VA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=108758016-108770823",
+      },
+      {
         nombre: "pelicula3",
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/K/P/K/H/KPKHz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1560011264-1560070291",
       },
@@ -79,12 +87,8 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/2/c/8/k/-/c8k-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=905704960-905774253",
       },
       {
-        nombre: "video5",
-        url: "https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/o/T/-/V/oT-VA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=167813120-167825834",
-      },
-      {
-        nombre: "video6",
-        url: "https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/A/1/-/V/A1-VA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=108758016-108770823",
+        nombre: "EL ROBO PERFECTO TIENE UN PRECIO",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/b0/s8/2/k/m/C/-/kmC-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717197824-717252569",
       },
       {
         nombre: "video7",
