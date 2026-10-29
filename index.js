@@ -11,7 +11,7 @@ const INTERVALO_COMERCIAL_SEGUNDOS = 45 * 60; // 45 minutos en segundos
 // ============ CONFIGURACIÓN DE CANALES ============
 const CANALES = {
   zipstream: {
-    nombre: "StratusNEX 24/7",
+    nombre: "ZipTVstream 24/7",
     epoch: Date.UTC(2024, 6, 1, 0, 0, 0) / 1000,
     episodios: [
       {
