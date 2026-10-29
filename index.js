@@ -297,8 +297,16 @@ const CANALES = {
     epoch: Date.UTC(2024, 6, 1, 0, 0, 0) / 1000,
     episodios: [
       {
+        nombre: "Memoria del Saqueo",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/ec/s8/2/S/C/g/_/SCg_A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=855034368-855099471",
+      },
+      {
         nombre: "EN LA MENTE DE UN DICTADOR",
         url: "https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/S/U/j/-/SUj-A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=668925440-668976381",
+      },
+      {
+        nombre: "EL AÑO QUE RECUPERAMOS LA DEMOCRACIA",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/W/C/g/_/WCg_A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740190720-740247139",
       },
       {
         nombre: "PABLO ESCOBAR: HOMBRE VS MITOS",
