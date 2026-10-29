@@ -11,7 +11,7 @@ const INTERVALO_COMERCIAL_SEGUNDOS = 45 * 60; // 45 minutos en segundos
 // ============ CONFIGURACIÓN DE CANALES ============
 const CANALES = {
   zipstream: {
-    nombre: "ZTVstream 24/7",
+    nombre: "StratusNEX 24/7",
     epoch: Date.UTC(2024, 6, 1, 0, 0, 0) / 1000,
     episodios: [
       {
@@ -25,6 +25,14 @@ const CANALES = {
       {
         nombre: "ASALTO A WALL STREET",
         url: "https://hugh.cdn.rumble.cloud/video/fww1/7f/s8/2/4/V/k/-/4Vk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=499523584-499582916",
+      },
+      {
+        nombre: "Toda la verdad de mis mentiras_S01E01",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/fc/s8/2/Y/K/f/_/YKf_A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=610498048-610520871",
+      },
+      {
+        nombre: "Toda la verdad de mis mentiras_S01E02",
+        url: "https://hugh.cdn.rumble.cloud/video/fww1/b8/s8/2/Q/U/f/_/QUf_A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=525753856-525773557",
       },
       {
         nombre: "Pelicula11",
@@ -51,6 +59,14 @@ const CANALES = {
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/G/6/j/-/G6j-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=491497472-491556048",
       },
       {
+        nombre: "Toda la verdad de mis mentiras_S01E03",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/74/s8/2/E/b/g/_/Ebg_A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=278834688-278855844",
+      },
+      {
+        nombre: "Toda la verdad de mis mentiras_S01E04",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/80/s8/2/E/d/g/_/Edg_A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=566117888-566139096",
+      },
+      {
         nombre: "AMAME O MUERETE",
         url: "https://hugh.cdn.rumble.cloud/video/fww1/4b/s8/2/e/l/k/-/elk-A.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=308416512-308453043",
       },
@@ -69,6 +85,10 @@ const CANALES = {
       {
         nombre: "Pelicula2",
         url: "https://hugh.cdn.rumble.cloud/video/fwe2/86/s8/2/k/c/e/m/kcemz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1502260224-1502317150",
+      },
+      {
+        nombre: "Toda la verdad de mis mentiras_S01E05",
+        url: "https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/2/4/d/g/_/4dg_A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=374271488-374299850",
       },
       {
         nombre: "video5",
